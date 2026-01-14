@@ -11,7 +11,7 @@ configure<PublishingExtension> {
             pom {
                 name.set("OpenAPI 3.0 Pet Store")
                 description.set("This is a sample Pet Store Server based on the OpenAPI 3.0 specification.")
-                url.set("https://www.github.com/stainless-sdks-staging/yolken-test-14c-java")
+                url.set("https://www.github.com/yolken-stainless/yolken-test-14c-java")
 
                 licenses {
                     license {
@@ -26,9 +26,9 @@ configure<PublishingExtension> {
                 }
 
                 scm {
-                    connection.set("scm:git:git://github.com/stainless-sdks-staging/yolken-test-14c-java.git")
-                    developerConnection.set("scm:git:git://github.com/stainless-sdks-staging/yolken-test-14c-java.git")
-                    url.set("https://github.com/stainless-sdks-staging/yolken-test-14c-java")
+                    connection.set("scm:git:git://github.com/yolken-stainless/yolken-test-14c-java.git")
+                    developerConnection.set("scm:git:git://github.com/yolken-stainless/yolken-test-14c-java.git")
+                    url.set("https://github.com/yolken-stainless/yolken-test-14c-java")
                 }
 
                 versionMapping {
